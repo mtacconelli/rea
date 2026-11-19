@@ -28,6 +28,10 @@ env/
 .factory/
 codedb.snapshot
 
+# MSBuild intermediate output. Regenerated locally and includes machine paths.
+scripts/fixtures/dotnet-bundle/obj/
+tests/fixtures/nativeaot/obj/
+
 # Testing
 .pytest_cache/
 htmlcov/
