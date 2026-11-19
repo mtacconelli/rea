@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "dgSpecHash": "iurFK5HW7RE=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\MarkTacconelli\\OneDrive\\ClearPath.AI\\Code\\Projects\\REA\\tests\\fixtures\\nativeaot\\NativeAotFixture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MarkTacconelli\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.22\\microsoft.dotnet.ilcompiler.8.0.22.nupkg.sha512",
+    "C:\\Users\\MarkTacconelli\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.22\\microsoft.net.illink.tasks.8.0.22.nupkg.sha512",
+    "C:\\Users\\MarkTacconelli\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.22\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.22.nupkg.sha512",
+    "C:\\Users\\MarkTacconelli\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\MarkTacconelli\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\MarkTacconelli\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\MarkTacconelli\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.22\\microsoft.netcore.app.runtime.win-x64.8.0.22.nupkg.sha512",
+    "C:\\Users\\MarkTacconelli\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.22\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.22.nupkg.sha512",
+    "C:\\Users\\MarkTacconelli\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.22\\microsoft.aspnetcore.app.runtime.win-x64.8.0.22.nupkg.sha512",
+    "C:\\Users\\MarkTacconelli\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.22\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.22.nupkg.sha512",
+    "C:\\Users\\MarkTacconelli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.DotNet.ILCompiler' 8.0.22 has a known high severity vulnerability, https://github.com/advisories/GHSA-p3jp-9v83-76w9",
+      "projectPath": "c:\\Users\\MarkTacconelli\\OneDrive\\ClearPath.AI\\Code\\Projects\\REA\\tests\\fixtures\\nativeaot\\NativeAotFixture.csproj",
+      "warningLevel": 1,
+      "filePath": "c:\\Users\\MarkTacconelli\\OneDrive\\ClearPath.AI\\Code\\Projects\\REA\\tests\\fixtures\\nativeaot\\NativeAotFixture.csproj",
+      "libraryId": "Microsoft.DotNet.ILCompiler",
+      "targetGraphs": [
+        "net8.0",
+        "net8.0/win-x64"
+      ]
+    }
+  ]
+}
